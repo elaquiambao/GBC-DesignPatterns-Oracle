@@ -1,4 +1,4 @@
-##GBC-Design Patterns in Blockchain
+GBC-Design Patterns in Blockchain
 ===================================
 ### Lab1 - Oracle
 Tasks:
