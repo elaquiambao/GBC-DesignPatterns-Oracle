@@ -20,4 +20,5 @@ React app:
 ### Student Information
 
 Name: | Elanie Quiambao 
+-----------------------
 StudentId: | 101339344
