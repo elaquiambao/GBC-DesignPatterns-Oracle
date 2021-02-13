@@ -1,13 +1,13 @@
 # GBC - Design Patterns in Blockchain
 ## Lab1 - Oracle
 
-Steps:
-Create a Smart Contract
-Create an Express server
-Create a simple React app
-Call Express app from React to get data
-Write the data to the smart contract
-Read back from the smart contract
+Activities:
+- Create a Smart Contract
+- Create an Express server
+- Create a simple React app
+- Call Express app from React to get data
+- Write the data to the smart contract
+- Read back from the smart contract
 
 React app:
 - asks for stock symbol
