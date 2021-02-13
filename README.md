@@ -1,5 +1,5 @@
 ##GBC-Design Patterns in Blockchain
------------------------------------
+===================================
 ### Lab1 - Oracle
 Tasks:
 - Create a Smart Contract
@@ -15,7 +15,7 @@ React app:
 - writes to smart contract using setStock call
 - reads back and display results from smart contract using getStockPrice, getStockVolume
 
-Status: Completed and working app
+**Status: Completed and working app** 
 
 ### Student Information
 
