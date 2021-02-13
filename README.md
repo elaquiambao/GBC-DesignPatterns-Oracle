@@ -1,7 +1,7 @@
-# GBC - Design Patterns in Blockchain
-## Lab1 - Oracle
-
-Activities:
+##GBC-Design Patterns in Blockchain
+-----------------------------------
+### Lab1 - Oracle
+Tasks:
 - Create a Smart Contract
 - Create an Express server
 - Create a simple React app
@@ -15,10 +15,9 @@ React app:
 - writes to smart contract using setStock call
 - reads back and display results from smart contract using getStockPrice, getStockVolume
 
-Result:
-Working!
+Status: Completed and working app
 
-## Student Information
+### Student Information
 
-Name: Elanie Quiambao
-StudentId: 101339344
+Name: | Elanie Quiambao 
+StudentId: | 101339344
