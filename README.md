@@ -1,7 +1,7 @@
 GBC-Design Patterns in Blockchain
 ===================================
 ### Lab1 - Oracle
-Tasks:
+Goals:
 * Create a Smart Contract
 * Create an Express server
 * Create a simple React app
